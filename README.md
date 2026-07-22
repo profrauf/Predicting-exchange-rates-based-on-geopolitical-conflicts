@@ -256,13 +256,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/profrauf/Predicting-exchange-rates-based-on-geopolitical-conflicts
 ```
 
 Move to the project directory
 
 ```bash
-cd your-repository
+cd Predicting-exchange-rates-based-on-geopolitical-conflicts
 ```
 
 Install dependencies
